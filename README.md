@@ -1,101 +1,85 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishanth%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20AI-Native%20Systems&descAlignY=62&descSize=16&v=2" width="100%"/>
+# Nishanth B
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Backend+Engineer;AI-Native+Systems+Builder;Smart+Contract+Infrastructure;Secure+Architecture+Design;Open+Source+Contributor;Always+Building)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="45%">
-        <img src=".github/assets/portrait.svg" alt="Nishanth B ASCII portrait" width="100%" />
-      </td>
-      <td align="center" width="55%">
-        <img src=".github/assets/info.svg" alt="Nishanth B Info" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthcr7777/nishanthcr7777/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanthcr7777/nishanthcr7777/output/github-snake.svg" />
-    <img alt="GitHub contributions snake" src="https://raw.githubusercontent.com/nishanthcr7777/nishanthcr7777/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/readme/70A5FD" width="24" height="24" alt=""/> About Me
-
-I'm a Backend Engineer and AI-Native Systems Builder from Chennai, currently pursuing B.Tech in Information Technology at Chennai Institute of Technology. Former **SDE Intern at TVS Automobile Solutions (TVS Group)** and **Open-Source Contributor at BrainGlobe**, I build production-grade backend systems, AI-native developer tools, and secure smart contract infrastructure. My work lives at the intersection of **secure architectures**, **deterministic pipelines**, and **AI-assisted developer tooling** — including **NexOps Protocol** for Bitcoin Cash smart contracts.
-
----
-
-## <img src="https://cdn.simpleicons.org/gnubash/00FF88" width="24" height="24" alt=""/> Projects
-
-### NexOps Protocol
-
-AI-assisted developer infrastructure for generating, auditing, and deploying secure **CashScript smart contracts** on the Bitcoin Cash network.
-
-<p align="center">
-  <a href="https://nexops.cash">
-    <img src="https://img.shields.io/badge/Website-nexops.cash-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/NexOps-cash">
-    <img src="https://img.shields.io/badge/GitHub-NexOps--cash-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://docs.nexops.cash">
-    <img src="https://img.shields.io/badge/Docs-Protocol%20Documentation-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://nexops.cash">Landing</a> •
-  <a href="https://app.nexops.cash">Protocol App</a> •
-  <a href="https://docs.nexops.cash">Documentation</a> •
-  <a href="https://hub.nexops.cash">NexHub Registry</a> •
-  <a href="https://wiz.nexops.cash">NexWizard Builder</a>
-</p>
-
-### Featured Projects
-
-- **NexOps Protocol** — AI-assisted infrastructure for generating, auditing, and deploying secure Bitcoin Cash smart contracts. → https://github.com/NexOps-cash
-- **HelmOS** — An AI operating system for founders that combines memory, planning, research, and execution into a single workspace.
-- **Bulk Resume Analyzer** — AI-powered recruitment intelligence platform for resume analysis, candidate evaluation, and hiring insights.
-- **DecohereX** — AI-assisted quantum job orchestration and backend optimization platform for IBM Quantum workloads.
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <img src=".github/assets/achievements.svg" alt="Achievements" width="100%" />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <img src=".github/assets/experience.svg" alt="Professional Experience" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <img src="https://cdn.simpleicons.org/googlechrome/70A5FD" width="24" height="24" alt=""/> Connect With Me
+Backend engineer building control infrastructure for production AI agents. I like the unglamorous parts: retries, approvals, policy checks, and proving an action actually happened.
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishanth.vip-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://nishanth.vip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-n1shanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/n1shanth)
 [![Email](https://img.shields.io/badge/Email-bnishanthtpm06@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bnishanthtpm06@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-bnishanthcr7-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/bnishanthcr7)
 
 </div>
 
+## Achievements
+
+- **BCH-1 Hackcelerator winner ($10K)** with NexOps
+- **Web3Conf'25 winner ($800)** 
+- **ETHNile winner**
+- **Cardano Asia IBW**: Top 5
+- **AQVH'25**: Top 10 of 700+ teams
+
+## Web3
+
+- **[Ledger Guardian Agent](https://ledger-gaurd.vercel.app/)** ([repo](https://github.com/n1shanthb/Ledger-gaurd)) · ETHOnline 2026: hardware-bounded delegation for autonomous DeFi exits. You clear-sign stop-loss, take-profit or buy-dip limits on a Ledger, and six keeper roles pay per attempt over Hedera x402, read Pyth prices and fill on Base via Uniswap, only inside the signed bands. The Graph indexes policies, fills, kill-switches and payment audits. Tested on Base mainnet.
+- **[NexOps](https://nexops.cash)** ([repo](https://github.com/NexOps-cash/nexops-mcp)) · BCH-1 Hackcelerator winner ($10K): AI-assisted generation, auditing and deployment of CashScript contracts on Bitcoin Cash, with an MCP server, audit engine and WalletConnect signing.
+- **[Rescue.eth](https://github.com/n1shanthb/rescue.eth)** · ETHGlobal HackMoney 2026: gasless recovery on L2s, so users holding only USDC can get ETH for gas. Built with Yellow Network/Nitrolite, LI.FI routing and EIP-712 signing.
+- **[AxoHub](https://github.com/n1shanthb/AxoHub)** · Web3Conf'25 and ETHNile winner: an npm-style registry for verified Solidity packages, with on-chain verification, IPFS source storage, and an MCP workflow for AI contract generation and security audits before publishing.
+
+**Web3 stack**  
+<img src="https://cdn.simpleicons.org/solidity/_/white" height="16" alt="" /> Solidity &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ethereum/_/white" height="16" alt="" /> EVM &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/coinbase" height="16" alt="" /> Base &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/hedera/_/white" height="16" alt="" /> Hedera (x402, HCS) &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/thegraph" height="16" alt="" /> The Graph &nbsp;·&nbsp; Pyth &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/uniswap" height="16" alt="" /> Uniswap &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ledger/_/white" height="16" alt="" /> Ledger clear-signing &nbsp;·&nbsp; EIP-712 &nbsp;·&nbsp; session keys &nbsp;·&nbsp; wagmi &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/walletconnect" height="16" alt="" /> WalletConnect &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ipfs" height="16" alt="" /> IPFS &nbsp;·&nbsp; LI.FI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/bitcoincash" height="16" alt="" /> CashScript
+
+## Open source
+
+**Merged**
+- **GitHub Spec Kit**: [#5054](https://github.com/github/spec-kit/pull/5054) workflow MCP inventory covering all 29 `specify workflow` CLI commands, with parity tests against the real command tree.
+- **BrainGlobe atlasapi**: 5 merged PRs
+  - [#721](https://github.com/brainglobe/brainglobe-atlasapi/pull/721) recover from corrupted atlas metadata with cleanup, re-download and bounded retry
+  - [#700](https://github.com/brainglobe/brainglobe-atlasapi/pull/700) stop crashes on incomplete or corrupted atlas downloads
+  - [#788](https://github.com/brainglobe/brainglobe-atlasapi/pull/788) fix inconsistent atlas version metadata
+  - [#690](https://github.com/brainglobe/brainglobe-atlasapi/pull/690) type annotations across core API modules
+  - [#691](https://github.com/brainglobe/brainglobe-atlasapi/pull/691) fix missing `atlasgen` optional dependency
+
+**In review**
+- **Google ADK**: 3 open PRs
+  - [#7686](https://github.com/google/adk-python/pull/7686) report truncated Apigee tool calls as `MAX_TOKENS`
+  - [#7774](https://github.com/google/adk-python/pull/7774) reject malformed Apigee tool-call arguments
+  - [adk-docs #2455](https://github.com/google/adk-docs/pull/2455) document Go tool execution and built-in helpers
+- **GitHub Spec Kit**: [#5115](https://github.com/github/spec-kit/pull/5115) expose installed workflows through MCP.
+- **Meta Pyrefly**: [#5388](https://github.com/facebook/pyrefly/pull/5388) diagnose classmethods without positional receivers.
+
+## Building
+
+- **[Nalvis](https://nalvis.dev)** ([repo](https://github.com/n1shanthb/Nalvis)): policy checks and human approvals around consequential agent tool calls, durable action identity across retries, and outcome verification with preserved evidence. Works with LangGraph, OpenAI Agents, CrewAI and custom Python/TS. Built on Temporal.
+- **[NexOps](https://nexops.cash)** ([repo](https://github.com/NexOps-cash/nexops-mcp)): AI-assisted generation, auditing and deployment of CashScript contracts on Bitcoin Cash, with an MCP server and audit engine.
+- **HelmOS** ([repo](https://github.com/n1shanthb/helmos-v2)): an AI workspace for founders that combines memory, planning, research and execution.
+
+## Experience
+
+SDE intern at TVS Automobile Solutions: built an enterprise ticketing system (Node.js, MySQL, Socket.IO, JWT/RBAC, GCP).
+
+## Skills
+
+**Languages**  
+<img src="https://cdn.simpleicons.org/python" height="16" alt="" /> Python &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/typescript" height="16" alt="" /> TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/javascript" height="16" alt="" /> JavaScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/openjdk/_/white" height="16" alt="" /> Java &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/solidity/_/white" height="16" alt="" /> Solidity &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> SQL &nbsp;·&nbsp; CashScript
+
+**Frameworks**  
+<img src="https://cdn.simpleicons.org/fastapi" height="16" alt="" /> FastAPI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs" height="16" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/express/_/white" height="16" alt="" /> Express &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/react" height="16" alt="" /> React &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/_/white" height="16" alt="" /> Next.js &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss" height="16" alt="" /> Tailwind CSS
+
+**Databases**  
+<img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/mysql" height="16" alt="" /> MySQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/mongodb" height="16" alt="" /> MongoDB &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/redis" height="16" alt="" /> Redis &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> pgvector &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/supabase" height="16" alt="" /> Supabase
+
+**AI / ML**  
+<img src="https://cdn.simpleicons.org/langgraph/_/white" height="16" alt="" /> LangGraph &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/modelcontextprotocol/_/white" height="16" alt="" /> MCP &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/pytorch" height="16" alt="" /> PyTorch &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn" height="16" alt="" /> scikit-learn &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/pandas/_/white" height="16" alt="" /> pandas &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/numpy/_/white" height="16" alt="" /> NumPy &nbsp;·&nbsp; OpenAI Agents SDK &nbsp;·&nbsp; RAG and embeddings
+
+**Infra & tools**  
+<img src="https://cdn.simpleicons.org/temporal/_/white" height="16" alt="" /> Temporal &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker" height="16" alt="" /> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/googlecloud" height="16" alt="" /> Google Cloud &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/git" height="16" alt="" /> Git &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/githubactions" height="16" alt="" /> GitHub Actions &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/socketdotio/_/white" height="16" alt="" /> Socket.IO &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/postman" height="16" alt="" /> Postman
+
+**Engineering:** distributed and async systems, REST APIs, RBAC, verification pipelines, deterministic validation, human-in-the-loop  
+**Focus:** AI reliability, security analysis, benchmarks
+
+<div align="center">
+<img width="345" height="323" alt="bch1poster" src="https://github.com/user-attachments/assets/804a951f-72ea-4a79-90f8-f585dabe47e4" />
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishanthcr7777&style=for-the-badge" />
 </p>
