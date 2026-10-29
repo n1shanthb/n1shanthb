@@ -31,7 +31,10 @@ Backend engineer building control infrastructure for production AI agents. I lik
 ## Open source
 
 **Merged**
-- **GitHub Spec Kit**: [#5054](https://github.com/github/spec-kit/pull/5054) workflow MCP inventory covering all 29 `specify workflow` CLI commands, with parity tests against the real command tree.
+- **GitHub Spec Kit**: 2 merged PRs
+  - [#5054](https://github.com/github/spec-kit/pull/5054) workflow MCP inventory covering all 29 `specify workflow` CLI commands, with parity tests against the real command tree.
+  -  [#5115](https://github.com/github/spec-kit/pull/5115) expose installed workflows through MCP.
+
 - **BrainGlobe atlasapi**: 5 merged PRs
   - [#721](https://github.com/brainglobe/brainglobe-atlasapi/pull/721) recover from corrupted atlas metadata with cleanup, re-download and bounded retry
   - [#700](https://github.com/brainglobe/brainglobe-atlasapi/pull/700) stop crashes on incomplete or corrupted atlas downloads
@@ -44,7 +47,7 @@ Backend engineer building control infrastructure for production AI agents. I lik
   - [#7686](https://github.com/google/adk-python/pull/7686) report truncated Apigee tool calls as `MAX_TOKENS`
   - [#7774](https://github.com/google/adk-python/pull/7774) reject malformed Apigee tool-call arguments
   - [adk-docs #2455](https://github.com/google/adk-docs/pull/2455) document Go tool execution and built-in helpers
-- **GitHub Spec Kit**: [#5115](https://github.com/github/spec-kit/pull/5115) expose installed workflows through MCP.
+  
 - **Meta Pyrefly**: [#5388](https://github.com/facebook/pyrefly/pull/5388) diagnose classmethods without positional receivers.
 
 ## Building
