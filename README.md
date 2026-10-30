@@ -31,6 +31,10 @@ Backend engineer building control infrastructure for production AI agents. I lik
 ## Open source
 
 **Merged**
+
+- **Google ADK**: 1 merged PR
+  - [#7686](https://github.com/google/adk-python/pull/7686) report truncated Apigee tool calls as `MAX_TOKENS`
+    
 - **GitHub Spec Kit**: 2 merged PRs
   - [#5054](https://github.com/github/spec-kit/pull/5054) workflow MCP inventory covering all 29 `specify workflow` CLI commands, with parity tests against the real command tree.
   -  [#5115](https://github.com/github/spec-kit/pull/5115) expose installed workflows through MCP.
@@ -43,8 +47,7 @@ Backend engineer building control infrastructure for production AI agents. I lik
   - [#691](https://github.com/brainglobe/brainglobe-atlasapi/pull/691) fix missing `atlasgen` optional dependency
 
 **In review**
-- **Google ADK**: 3 open PRs
-  - [#7686](https://github.com/google/adk-python/pull/7686) report truncated Apigee tool calls as `MAX_TOKENS`
+- **Google ADK**: 2 open PRs
   - [#7774](https://github.com/google/adk-python/pull/7774) reject malformed Apigee tool-call arguments
   - [adk-docs #2455](https://github.com/google/adk-docs/pull/2455) document Go tool execution and built-in helpers
   
