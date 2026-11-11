@@ -13,20 +13,11 @@ Backend engineer building control infrastructure for production AI agents. I lik
 ## Achievements
 
 - **BCH-1 Hackcelerator winner ($10K)** with NexOps
+- **HSK Horizon Mumbai winner ($2500)**
 - **Web3Conf'25 winner ($800)** 
 - **ETHNile winner**
 - **Cardano Asia IBW**: Top 5
 - **AQVH'25**: Top 10 of 700+ teams
-
-## Web3
-
-- **[Ledger Guardian Agent](https://ledger-gaurd.vercel.app/)** ([repo](https://github.com/n1shanthb/Ledger-gaurd)) · ETHOnline 2026: hardware-bounded delegation for autonomous DeFi exits. You clear-sign stop-loss, take-profit or buy-dip limits on a Ledger, and six keeper roles pay per attempt over Hedera x402, read Pyth prices and fill on Base via Uniswap, only inside the signed bands. The Graph indexes policies, fills, kill-switches and payment audits. Tested on Base mainnet.
-- **[NexOps](https://nexops.cash)** ([repo](https://github.com/NexOps-cash/nexops-mcp)) · BCH-1 Hackcelerator winner ($10K): AI-assisted generation, auditing and deployment of CashScript contracts on Bitcoin Cash, with an MCP server, audit engine and WalletConnect signing.
-- **[Rescue.eth](https://github.com/n1shanthb/rescue.eth)** · ETHGlobal HackMoney 2026: gasless recovery on L2s, so users holding only USDC can get ETH for gas. Built with Yellow Network/Nitrolite, LI.FI routing and EIP-712 signing.
-- **[AxoHub](https://github.com/n1shanthb/AxoHub)** · Web3Conf'25 and ETHNile winner: an npm-style registry for verified Solidity packages, with on-chain verification, IPFS source storage, and an MCP workflow for AI contract generation and security audits before publishing.
-
-**Web3 stack**  
-<img src="https://cdn.simpleicons.org/solidity/_/white" height="16" alt="" /> Solidity &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ethereum/_/white" height="16" alt="" /> EVM &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/coinbase" height="16" alt="" /> Base &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/hedera/_/white" height="16" alt="" /> Hedera (x402, HCS) &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/thegraph" height="16" alt="" /> The Graph &nbsp;·&nbsp; Pyth &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/uniswap" height="16" alt="" /> Uniswap &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ledger/_/white" height="16" alt="" /> Ledger clear-signing &nbsp;·&nbsp; EIP-712 &nbsp;·&nbsp; session keys &nbsp;·&nbsp; wagmi &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/walletconnect" height="16" alt="" /> WalletConnect &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ipfs" height="16" alt="" /> IPFS &nbsp;·&nbsp; LI.FI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/bitcoincash" height="16" alt="" /> CashScript
 
 ## Open source
 
@@ -39,6 +30,9 @@ Backend engineer building control infrastructure for production AI agents. I lik
   - [#5054](https://github.com/github/spec-kit/pull/5054) workflow MCP inventory covering all 29 `specify workflow` CLI commands, with parity tests against the real command tree.
   -  [#5115](https://github.com/github/spec-kit/pull/5115) expose installed workflows through MCP.
 
+- **Meta Pyrefly**: 1 merged PR via Codesync
+  - [#5388](https://github.com/facebook/pyrefly/pull/5388) diagnose classmethods without positional receivers.
+
 - **BrainGlobe atlasapi**: 5 merged PRs
   - [#721](https://github.com/brainglobe/brainglobe-atlasapi/pull/721) recover from corrupted atlas metadata with cleanup, re-download and bounded retry
   - [#700](https://github.com/brainglobe/brainglobe-atlasapi/pull/700) stop crashes on incomplete or corrupted atlas downloads
@@ -50,8 +44,6 @@ Backend engineer building control infrastructure for production AI agents. I lik
 - **Google ADK**: 2 open PRs
   - [#7774](https://github.com/google/adk-python/pull/7774) reject malformed Apigee tool-call arguments
   - [adk-docs #2455](https://github.com/google/adk-docs/pull/2455) document Go tool execution and built-in helpers
-  
-- **Meta Pyrefly**: [#5388](https://github.com/facebook/pyrefly/pull/5388) diagnose classmethods without positional receivers.
 
 ## Building
 
@@ -83,9 +75,21 @@ SDE intern at TVS Automobile Solutions: built an enterprise ticketing system (No
 **Engineering:** distributed and async systems, REST APIs, RBAC, verification pipelines, deterministic validation, human-in-the-loop  
 **Focus:** AI reliability, security analysis, benchmarks
 
-<div align="center">
+## Web3
+
+- **[Ledger Guardian Agent](https://ledger-gaurd.vercel.app/)** ([repo](https://github.com/n1shanthb/Ledger-gaurd)) · ETHOnline 2026: hardware-bounded delegation for autonomous DeFi exits. You clear-sign stop-loss, take-profit or buy-dip limits on a Ledger, and six keeper roles pay per attempt over Hedera x402, read Pyth prices and fill on Base via Uniswap, only inside the signed bands. The Graph indexes policies, fills, kill-switches and payment audits. Tested on Base mainnet.
+- **[NexOps](https://nexops.cash)** ([repo](https://github.com/NexOps-cash/nexops-mcp)) · BCH-1 Hackcelerator winner ($10K): AI-assisted generation, auditing and deployment of CashScript contracts on Bitcoin Cash, with an MCP server, audit engine and WalletConnect signing.
+- **[Rescue.eth](https://github.com/n1shanthb/rescue.eth)** · ETHGlobal HackMoney 2026: gasless recovery on L2s, so users holding only USDC can get ETH for gas. Built with Yellow Network/Nitrolite, LI.FI routing and EIP-712 signing.
+- **[AxoHub](https://github.com/n1shanthb/AxoHub)** · Web3Conf'25 and ETHNile winner: an npm-style registry for verified Solidity packages, with on-chain verification, IPFS source storage, and an MCP workflow for AI contract generation and security audits before publishing.
+
+**Web3 stack**  
+<img src="https://cdn.simpleicons.org/solidity/_/white" height="16" alt="" /> Solidity &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ethereum/_/white" height="16" alt="" /> EVM &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/coinbase" height="16" alt="" /> Base &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/hedera/_/white" height="16" alt="" /> Hedera (x402, HCS) &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/thegraph" height="16" alt="" /> The Graph &nbsp;·&nbsp; Pyth &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/uniswap" height="16" alt="" /> Uniswap &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ledger/_/white" height="16" alt="" /> Ledger clear-signing &nbsp;·&nbsp; EIP-712 &nbsp;·&nbsp; session keys &nbsp;·&nbsp; wagmi &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/walletconnect" height="16" alt="" /> WalletConnect &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ipfs" height="16" alt="" /> IPFS &nbsp;·&nbsp; LI.FI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/bitcoincash" height="16" alt="" /> CashScript
+<p align="center">
+
+  <div align="center">
 <img width="345" height="323" alt="bch1poster" src="https://github.com/user-attachments/assets/804a951f-72ea-4a79-90f8-f585dabe47e4" />
 </div>
-<p align="center">
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nishanthcr7777&style=for-the-badge" />
+  </div>
 </p>
